@@ -1,0 +1,54 @@
+/*
+* TOKYO AGAINST RACISM
+* copyright 2019 tanakazuhiko
+*/
+body {
+    background-color: #2E2E2F;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    height: 100vh;
+}
+
+#main {
+    width: 618px;
+    height: 436px;
+    font-family: "Graduate";
+    font-weight: 900;
+    line-height: 0.9;
+    background-color: white;
+    padding: 12px;
+}
+
+#area {
+    display: flex;
+    justify-content: space-between;
+    vertical-align:middle;
+    color: #000000;
+    transform: scale(1.0, 0.9);
+    font-size: 200px;
+    margin-top: -18px;
+}
+
+#against {
+    display: flex;
+    justify-content: space-between;
+    background-color: #E0191E;
+    color: white;
+    transform: scale(1.0, 1.15);
+    padding: 0 8px;
+    font-size: 139px;
+    width: 603px;
+    margin-top: 2px;
+}
+
+#racism {
+    display: flex;
+    justify-content: space-between;
+    color: #000000;
+    font-size: 164px;
+    transform: scale(1.0, 1.0);
+    margin: 10px 0 0 -10px;
+}

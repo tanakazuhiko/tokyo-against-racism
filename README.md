@@ -4,7 +4,7 @@
 
 ### website
 http://tokyo-against-racism.gftd.me/index.html
-(Chrome on Mac Recommended)
+- (Chrome on Mac Recommended)
 
 ### dependency
 - [google fonts(Graduate)](https://developers.google.com/fonts/)

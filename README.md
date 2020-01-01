@@ -2,11 +2,8 @@
 <img src="http://tokyo-against-racism.gftd.me/screenshot.png?20191230">
 
 ### website
-- css version
- - http://tokyo-against-racism.gftd.me/index.html
-- svg version
- - http://tokyo-against-racism.gftd.me/index2.html
-
+- css ver: http://tokyo-against-racism.gftd.me/index.html
+- svg ver: http://tokyo-against-racism.gftd.me/index2.html
 - chrome/mac recommend
 
 ### dependency

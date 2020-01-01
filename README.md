@@ -2,12 +2,12 @@
 <img src="http://tokyo-against-racism.gftd.me/screenshot.png?20191230">
 
 ### website
-http://tokyo-against-racism.gftd.me/index.html
 - css version
-http://tokyo-against-racism.gftd.me/index2.html
+ - http://tokyo-against-racism.gftd.me/index.html
 - svg version
+ - http://tokyo-against-racism.gftd.me/index2.html
 
-- Chrome on Mac Recommend
+- chrome/mac recommend
 
 ### dependency
 - [google fonts(Graduate)](https://developers.google.com/fonts/)
